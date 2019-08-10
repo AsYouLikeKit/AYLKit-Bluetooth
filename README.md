@@ -1,5 +1,6 @@
 # Library-Kit-Bluetooth
 Complete Bluetooth control personalized and adapted for your arduino project.
+Create Json Request with Bluetooth and Arduino.
 
 # Hardware
 Simple decoding library for your IOT on ESP32 or Arduino with Bluetooth HC-05.
